@@ -1,4 +1,4 @@
-# meteor-boilerplate
+# meteor-prototype
 
 A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, Font Awesome, LESS and more.
 
@@ -37,15 +37,7 @@ A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, F
 
 ## <a name="installation"></a> Installation
 
-1. Clone this repo to `<yourapp>`
-
-  `git clone https://github.com/Differential/meteor-boilerplate.git <yourapp>`
-
-2. Remove `.git`
-
-  `cd <yourapp> && rm -rf .git`
-
-3. Start coding!
+TODO
 
 ## <a name="file-structure"></a> File Structure
 
